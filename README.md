@@ -6,8 +6,7 @@
 - 🌱 I’m currently learning **AI & Machine Learning**
 
 - 📫 How to reach me **seiffyasserr@gmail.com**
-
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1FEruPwjVa5o5QhIE5vYeyzBTNTcAV1rb/view?usp=drive_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/17qf8rrEyzd0iKrraERJ8LiUVgOPmYzAA/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
