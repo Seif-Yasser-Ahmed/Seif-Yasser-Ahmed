@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/seif-yasser-571849288?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B74wLJDZmQMCaG%2FHZo4WxQQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seif yasser" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/seifyasserahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seif yasser" height="30" width="40" /></a>
 <a href="https://kaggle.com/seifyasserahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="seifyasserahmed" height="30" width="40" /></a>
 <a href="https://huggingface.co/Seif-Yasser" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="seifyasserahmed" height="35" width="40" /></a>
 <a href="https://www.leetcode.com/seif-yasser-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="seif-yasser-ahmed" height="30" width="40" /></a>
